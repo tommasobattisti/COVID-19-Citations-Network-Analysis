@@ -1,2 +1,2 @@
-# COVID-19
+# Coronaviruses
 ## A Network Analysis of papers' citations.
