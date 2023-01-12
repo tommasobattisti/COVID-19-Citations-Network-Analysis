@@ -21,7 +21,7 @@ The corpus we focused on includes articles about Coronaviruses and their citatio
 ### Structure
 ------------------
 This repository contains:
-- DATA -> in which you can find all the data used to build and analyze the networks;
+- DATA -> in which you can find all the data used to build and analyze the networks. Furthermore, you will find the IMGS folder, containing some images of the networks;
 - GEPHI_FILES -> in which are stored some `.gephi` representations of the networks investigated;
 - NOTEBOOKS -> in which are contained all the Jupyter Notebooks that details the three core parts of the study, as well as a different definition of the <i>NetworkX</i> `lattice_reference` function. <b>Additionally, you can find a report of the project in the `.pdf` format</b>;
 - GML_NETWORKS -> in which are stored the `.gml` format networks on which we developed the study.
