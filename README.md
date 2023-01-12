@@ -1,6 +1,8 @@
 # Coronaviruses
 ## Identifying key papers within a wide citational landscape
 
+![alt text](https://raw.githubusercontent.com/Postitisnt/COVID-19-Citations-Network-Analysis/main/Data/imgs/Papers_Modularity.png)
+
 ### Context
 
 The ongoing COVID-19 pandemic has had a profound effect on the scientific community, with researchers from various disciplines collaborating to gain insights into the virus and develop effective treatments and vaccines. 
