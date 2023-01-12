@@ -1,7 +1,7 @@
 # Coronaviruses
 ## Identifying key papers within a wide citational landscape
 
-![alt text](https://raw.githubusercontent.com/Postitisnt/COVID-19-Citations-Network-Analysis/main/Data/imgs/Papers_Modularity.png)
+![Modularity view of papers' network](https://raw.githubusercontent.com/Postitisnt/COVID-19-Citations-Network-Analysis/main/Data/imgs/Papers_Modularity.png)
 
 ### Context
 
