@@ -1,4 +1,4 @@
-# Coronaviruses
+# COVID Citation Network - an analysis of key articles and journals
 ## Identifying key papers within a wide citational landscape
 
 ![Modularity view of papers' network](https://raw.githubusercontent.com/Postitisnt/COVID-19-Citations-Network-Analysis/main/Data/imgs/Papers_Modularity.png)
